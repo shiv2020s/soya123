@@ -10,7 +10,7 @@ public class EmployeeController {
 	@RequestMapping("/shiv")
 	public String name()
 	{
-		return "shiv";
+		return "<h1>shiv</h1>";
 	}
 	
 }
